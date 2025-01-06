@@ -1,6 +1,5 @@
 # ELECTRON-based-Text-Background-App
-![{9C79A2B3-ADE8-45BE-B38E-1729C73617AC}](https://github.com/user-attachments/assets/5b0b9e34-4847-4db9-bd6c-998ed1085850)
-
+![{D09FB728-CA78-483B-AAB0-45F62D704B39}](https://github.com/user-attachments/assets/27bd68a7-f77d-4a2d-89e9-44eca3799194)
 
 ## Overview
 
