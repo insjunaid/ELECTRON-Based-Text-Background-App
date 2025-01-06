@@ -1,5 +1,6 @@
 # ELECTRON-based-Text-Background-App
-![{D09FB728-CA78-483B-AAB0-45F62D704B39}](https://github.com/user-attachments/assets/27bd68a7-f77d-4a2d-89e9-44eca3799194)
+![Screenshot 2025-01-07 020422](https://github.com/user-attachments/assets/b9bc080e-b88e-4cf3-8aa4-cdb1961036d6)
+
 
 ## Overview
 
@@ -43,6 +44,7 @@ And there you have it – a simple yet powerful way to type, log, and let your c
 Go ahead, type away, and let the text do the talking – in the background, of course. 😎
 
 Feel free to fork, modify, and make it your own – because let’s face it, who wouldn’t want an app this cool? ✌️
+
 
 ## Built with 💻 and ❤️ using Electron
 
