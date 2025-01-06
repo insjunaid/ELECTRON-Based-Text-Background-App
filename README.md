@@ -1,5 +1,5 @@
 # ELECTRON-based-Text-Background-App
-
+![{9C79A2B3-ADE8-45BE-B38E-1729C73617AC}](https://github.com/user-attachments/assets/5b0b9e34-4847-4db9-bd6c-998ed1085850)
 
 
 ## Overview
@@ -27,8 +27,6 @@ The **Text Background App** is an Electron-based desktop application that allows
    ```bash
    git clone https://github.com/your-username/text-background-app.git
 
-
-  
 text-background-app/
 ├── package.json        # Project metadata and dependencies
 ├── main.js             # Main process code for Electron
