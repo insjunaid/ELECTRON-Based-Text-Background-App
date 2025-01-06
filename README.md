@@ -1,4 +1,4 @@
-# ELECTRON-based-Text-Background-App
+# ELECTRON Based Text Background App [Electron](https://electronjs.org/images/electron-logo.svg)
 
 ![Screenshot 2025-01-07 015947](https://github.com/user-attachments/assets/18b9b1a1-cae9-407f-ad61-22e73fb3f213)
 ## Overview
