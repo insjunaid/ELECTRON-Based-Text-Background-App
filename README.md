@@ -36,6 +36,16 @@ text-background-app/
 ├── renderer.js         # JavaScript for renderer process (UI interaction)
 └── styles.css          # Styling for the app
 ```
+
+## Conclusion
+
+And there you have it – a simple yet powerful way to type, log, and let your creativity flow! Whether you're jotting down your next big idea, venting out your thoughts, or just passing time, **Text Background App** has got your back. It's minimalistic, it's efficient, and it’s all about letting you focus on what really matters – your words.
+
+Go ahead, type away, and let the text do the talking – in the background, of course. 😎
+
+Feel free to fork, modify, and make it your own – because let’s face it, who wouldn’t want an app this cool? ✌️
+
 ## Built with 💻 and ❤️ using Electron
 
-
+## Acknowledgement
+Under guidance of  [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
