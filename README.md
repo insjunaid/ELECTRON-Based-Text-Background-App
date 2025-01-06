@@ -1,7 +1,6 @@
 # ELECTRON-based-Text-Background-App
-![Screenshot 2025-01-07 020422](https://github.com/user-attachments/assets/b9bc080e-b88e-4cf3-8aa4-cdb1961036d6)
 
-
+![Screenshot 2025-01-07 015947](https://github.com/user-attachments/assets/18b9b1a1-cae9-407f-ad61-22e73fb3f213)
 ## Overview
 
 The **Text Background App** is an Electron-based desktop application that allows users to type in a `textarea` element and log the entered text to the console. The app runs as a lightweight desktop app, giving users an experience of typing in the background with real-time text logging.
